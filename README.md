@@ -1,4 +1,4 @@
-##Relógio Digital
+## Relógio Digital
 
 Este projeto exibe um relógio digital no meio da página, mostrando a hora exata em tempo real. É uma aplicação simples criada com HTML, CSS e JavaScript.
 
@@ -14,6 +14,6 @@ Este projeto exibe um relógio digital no meio da página, mostrando a hora exat
 - **CSS**: Define o estilo e o posicionamento do relógio.
 - **JavaScript**: Atualiza a hora em tempo real.
 
-## Imagem do projeto
+## Captura de Tela
 
-![Uploading Captura de tela 2024-09-04 193701.png…]()
+![Captura de tela 2024-09-04 193701](https://github.com/user-attachments/assets/bec224f3-9b78-464e-85ea-eeae6a6d28f1)
